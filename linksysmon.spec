@@ -15,7 +15,6 @@ Requires:	net-snmp
 Requires:	net-snmp-utils
 Requires:	net-snmp-trapd
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 linksysmon is a tool for monitoring Linksys BEFSR41 and BEFSR11
