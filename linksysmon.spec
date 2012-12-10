@@ -97,3 +97,33 @@ EOF
 %attr(0644,root,root) %{perl_vendorlib}/linksysmon.pm
 
 
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 1.1.4-5mdv2011.0
++ Revision: 620241
+- the mass rebuild of 2010.0 packages
+
+* Fri Sep 04 2009 Thierry Vignaud <tv@mandriva.org> 1.1.4-4mdv2010.0
++ Revision: 429853
+- rebuild
+
+* Mon Jul 28 2008 Thierry Vignaud <tv@mandriva.org> 1.1.4-3mdv2009.0
++ Revision: 250812
+- rebuild
+
+* Fri Dec 21 2007 Olivier Blin <oblin@mandriva.com> 1.1.4-1mdv2008.1
++ Revision: 136572
+- restore BuildRoot
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Fri Mar 02 2007 Oden Eriksson <oeriksson@mandriva.com> 1.1.4-1mdv2007.0
++ Revision: 131191
+- Import linksysmon
+
+* Wed Feb 08 2006 Oden Eriksson <oeriksson@mandriva.com> 1.1.4-1mdk
+- initial Mandriva package
+
