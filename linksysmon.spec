@@ -1,7 +1,7 @@
 Summary:	A tool for monitoring Linksys BEFSR41 and BEFSR11 firewalls
 Name:		linksysmon
 Version:	1.1.4
-Release:	%mkrel 5
+Release:	6
 License:	GPL or Artistic
 Group:		System/Servers
 URL:		http://woogie.net/projects/linksysmon/
