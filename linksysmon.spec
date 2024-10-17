@@ -4,7 +4,7 @@ Version:	1.1.4
 Release:	6
 License:	GPL or Artistic
 Group:		System/Servers
-URL:		http://woogie.net/projects/linksysmon/
+URL:		https://woogie.net/projects/linksysmon/
 Source0:	http://woogie.net/projects/linksysmon/attachment/wiki/WikiStart/%{name}-%{version}.tar.bz2
 Source1:	linksysmon.init.bz2
 Source2:	linksysmon.sysconfig.bz2
