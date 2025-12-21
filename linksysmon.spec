@@ -10,6 +10,7 @@ Source1:	linksysmon.init.bz2
 Source2:	linksysmon.sysconfig.bz2
 Requires(post): rpm-helper
 Requires(preun): rpm-helper
+BuildRequires:	make
 BuildRequires:	perl-devel
 Requires:	net-snmp
 Requires:	net-snmp-utils
